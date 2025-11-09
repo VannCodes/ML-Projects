@@ -1,0 +1,2 @@
+# Compilation of Mahcine Learning Projects
+This repository is a compilation of machine learning projects that I created. Each project comes with detailed documentation to describe the entire ML pipeline.
